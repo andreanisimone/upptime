@@ -4,7 +4,7 @@
     "url": "https://simoneandreani.it",
     "icon": "https://icons.duckduckgo.com/ip3/simoneandreani.it.ico",
     "slug": "simoneandreani-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 256,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2024-03-29": 0,
       "2024-03-01": 36
     }
   }
