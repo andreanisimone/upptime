@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/simoneandreani.it.ico",
     "slug": "simoneandreani-it",
     "status": "up",
-    "uptime": "62.45%",
+    "uptime": "62.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.29%",
+    "uptimeYear": "34.56%",
     "time": 238,
-    "timeDay": 203,
-    "timeWeek": 240,
-    "timeMonth": 231,
+    "timeDay": 209,
+    "timeWeek": 237,
+    "timeMonth": 229,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2026-01-27": 24,
@@ -254,8 +254,7 @@
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
-      "2025-04-19": 1440,
-      "2025-04-18": 1440
+      "2025-04-19": 1440
     }
   }
 ]
